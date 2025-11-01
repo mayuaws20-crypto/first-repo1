@@ -1,2 +1,3 @@
 # first-repo1
-first-repo1
+this is my first repo'
+author mayuri naik
